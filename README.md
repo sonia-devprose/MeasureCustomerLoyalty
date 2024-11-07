@@ -91,6 +91,7 @@ else:
   - `or`: Checks if a customer has fewer coupons or is not eligible for rewards.
   - `not`: Used to negate a condition, making sure that the status of the customer is updated correctly when they are not eligible for rewards.
 
-  ![Screenshot 2024-11-06 012746](https://github.com/user-attachments/assets/34865713-83fd-4af8-b979-630c20b8973a)
+  ![Screenshot 2024-11-08 013453](https://github.com/user-attachments/assets/fd1617f4-729b-483e-9df1-0416780691db)
+
 
 
